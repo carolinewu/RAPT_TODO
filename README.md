@@ -5,7 +5,7 @@
 |[Nonverbal Behavior Analysis and Generation](#)                              |/| | | | |
 |[User Modeling and Memory](https://github.com/WilliXL/user_modeling_memory)  |/| | | | |
 |[Time-Series Analysis of Rapport-Building](#)                                |/| | | | |
-|[Virtual Agent Dialogue Authoring](#)                                        |/| | | | |
+|[Virtual Agent Dialogue Authoring](https://github.com/lijeffrey39/dialogue_authoring_tool/)                                        |/| | | | |
 |Human-Agent Rapport-Building <a href="http://cra.org/cra-w/creu/#overview" target="_blank">(CREU)</a>: <a href="https://michelinaastlecreu.wordpress.com/" target="_blank">Mimi</a> and <a href="alvarostudieslearningscience.com" target="_blank">Alvaro</a>                                                    |/| | | | |
 
 
